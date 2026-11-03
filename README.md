@@ -31,7 +31,19 @@
 
 下面分开聊，但会尽量放在中国网络环境这个前提下说。  
 
+### [Starfirewall](https://starfirewall.com/)：安卓手机的订阅接入选择
+
+![Starfirewall 官网界面](https://overwallvpn.com/wp-content/uploads/2026/10/starfirewall-homepage.jpg)
+
+如果你更习惯使用支持订阅的安卓客户端，Starfirewall 可以作为一个付费选择。开通后，从用户中心取得订阅，再按使用说明导入与协议兼容的客户端。选择客户端时，先看实际协议支持和更新维护情况，安装包应从可信的官方渠道获取。
+
+安卓端还要留意省电策略、后台运行权限和分应用代理设置。出现 Chrome 能打开、其他 App 却连接失败的情况时，建议先检查这些 App 是否被代理接管，再排查 DNS 与节点连接。海外 AI 和在线工具本身还有地区及账户限制，建立网络连接不等于一定能登录所有服务。
+
+[查看 Starfirewall 套餐与使用说明](https://starfirewall.com/)
+
 ### 1. [StrongVPN](https://overwallvpn.com/go/strongvpn)：老牌“翻墙专用工具”，适合作为长期备用线路  
+
+![StrongVPN 产品界面](https://overwallvpn.com/wp-content/uploads/2025/10/StrongVPN-App.jpg)
 
 在很长一段时间里，**StrongVPN**基本就是“翻墙老用户”的代名词。它的优势主要在：  
 
@@ -52,6 +64,8 @@
    StrongVPN 支持 Windows、macOS、iOS、Android 以及路由器，配合家庭路由器刷固件，可以做到“全屋设备科学上网”。对一些不想在每个手机、电脑上都单独配置 VPN 的用户来说，算是一个加分项。  
 
 ### 2. [NordVPN](https://overwallvpn.com/go/nordvpn)：功能全能型，安全与速度兼顾  
+
+![NordVPN 产品界面](https://overwallvpn.com/wp-content/uploads/2025/12/nordvpn-homepage.jpg)
 
 **NordVPN**这几年在全球范围内名气非常大，在中国用户圈里风评也不错，它的优势主要集中在：  
 
@@ -78,6 +92,8 @@
 
 ### 3. [PrivateVPN](https://overwallvpn.com/go/privatevpn)：性价比不错，但更适合“轻量使用者”  
 
+![PrivateVPN 产品界面](https://overwallvpn.com/wp-content/uploads/2024/11/privatevpn-homepage.jpg)
+
 **PrivateVPN**在中文圈相对比较低调，但不少人会在网上或 Telegram 中推荐它作为“**备用梯子 + 预算友好型**”的方案。  
 
 1. **价格相对便宜，适合作为入门级付费 VPN**  
@@ -97,6 +113,8 @@
 
 ### 4. [CyberGhost](https://overwallvpn.com/go/cyberghost)：流媒体友好，在中国更适合作为“场景型补充”  
 
+![CyberGhost 产品界面](https://overwallvpn.com/wp-content/uploads/2025/12/cyberghost-china-ip.jpg)
+
 **CyberGhost**长期以来以“**解锁流媒体**”著称，在欧美用户群里口碑不错。但在中国的表现，有点“两极化”：  
 
 1. **对 Netflix、Hulu 等流媒体支持很好**  
@@ -112,6 +130,8 @@
    对新手来说，CyberGhost 的 UI 设计比较直观，像在用一款正规商业软件，而不是“黑科技工具”。如果你需要给父母、同事配置一个“偶尔看看 YouTube、刷点国外新闻”的 VPN，CyberGhost 的易用性还算友好。  
 
 ### 5. [ExpressVPN](https://overwallvpn.com/go/expressvpn)：老牌大厂，稳定与“省心”是最大卖点  
+
+![ExpressVPN 产品界面](https://overwallvpn.com/wp-content/uploads/2025/11/expressvpn-homepage.jpg)
 
 说到中国翻墙，**ExpressVPN**可以说是**提名率最高的几个之一**。原因很简单：  
 
